@@ -13,7 +13,7 @@ function Login() {
         <div className="flex-1 mt-12">
           <p className="flex-1 text-center w-80 ">
             Welkom bij <b>NOG 9 MINUTEN</b>, de meditatie app van Hilde de
-            Baerdemaeker, Evi Hansen en Jutta Borms.
+            Baerdemaeker, Evi Hanssen en Jutta Borms.
           </p>
         </div>
         <div className="flex-1 mt-12">
